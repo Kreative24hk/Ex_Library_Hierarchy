@@ -14,7 +14,7 @@ ite.getsitepackages()
 <img src="/Python Package Folder.png" width="100%" height="100%" title="Python Package Folder"></img>
 
 
-## Check the MyMethod_1() in MyModule_1
+## #1. Check the MyMethod_1() in MyModule_1
 
 <pre>
 <code>
@@ -30,7 +30,7 @@ __init__.py inside the PACKAGE:Ex_Library_Hierarchy is executed ...
 This is MyMethod_1 in MyModule_1.py
 ```
 
-## Check the MyMethod_2() in MyClass_1 of MyModule_1
+## #2. Check the MyMethod_2() in MyClass_1 of MyModule_1
 
 ```
 from Ex_Library_Hierarchy import MyModule_1
@@ -45,7 +45,7 @@ __init__.py inside the PACKAGE:Ex_Library_Hierarchy is executed ...
 This is MyMethod_2 in MyClass_1 of MyModule_1.py
 ```
 
-## Check the MyVariable_1 and _2 in MyClass_1 of MyModule_1
+## #3. Check the MyVariable_1 and _2 in MyClass_1 of MyModule_1
 ```
 from Ex_Library_Hierarchy import MyModule_1
 
