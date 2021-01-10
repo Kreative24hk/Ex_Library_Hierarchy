@@ -1,6 +1,6 @@
 # Ex_Library_Hierarchy
 
-This library is for showing how packages are constructed. You can download and save this pacakge into the python site-package folder. And then, check the package's structure by using the sample code below.
+This library is for showing how packages are constructed in Python. You can download and save this pacakge into the python site-package folder. And then, check the package's structure by using the sample code below.
 
 ## Check the MyMethod_1() in MyModule_1
 
