@@ -2,7 +2,7 @@
 
 This library is for showing how packages are constructed in Python. You can download and save this pacakge into the python site-package folder. And then, check the package's structure by using the sample code below.
 
-<img src="/Python Package Folder.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Python Package Folder"></img>
+<img src="/Python Package Folder.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="Python Package Folder"></img>
 
 
 ## Check the MyMethod_1() in MyModule_1
