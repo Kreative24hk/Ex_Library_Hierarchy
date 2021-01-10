@@ -64,4 +64,5 @@ This is MyVariable_2 in MyClass_1 of MyModule_1.py
 
 
 - - -
-[Description Korean Version] (https://kreative24hk.tistory.com/69)
+Korean Description
+https://kreative24hk.tistory.com/69
