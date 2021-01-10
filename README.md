@@ -2,6 +2,15 @@
 
 This library is for showing how packages are constructed in Python. You can download and save this pacakge into the python site-package folder. And then, check the package's structure by using the sample code below.
 
+## How to know Python Site-Package Folder path in my computer?
+```
+import site
+ite.getsitepackages()
+```
+```
+['/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages']
+```
+
 <img src="/Python Package Folder.png" width="100%" height="100%" title="Python Package Folder"></img>
 
 
